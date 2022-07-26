@@ -4,7 +4,7 @@
 ## Features
 - Node backend (with Express)
 - React/Redux frontend
-- Backend with rest endpoint that converts a given numeric string into a list of corresponding words ( GET /api/:id )
+- Backend with rest endpoint that converts a given numeric string into a list of corresponding words ( `GET /api/:id` )
 - Phone keyboard like UI
 - Filtering to include only English words
 - Routing with react-router-dom
