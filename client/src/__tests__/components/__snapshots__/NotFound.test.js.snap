@@ -1,0 +1,35 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`NotFound it should render correctly 1`] = `
+<DocumentFragment>
+  <div
+    class="section is-flex is-justify-content-center"
+  >
+    <h1>
+      Oops! Page not found. 
+      <a
+        href="/"
+      >
+        Go back!
+      </a>
+    </h1>
+  </div>
+</DocumentFragment>
+`;
+
+exports[`NotFound it should render the component 1`] = `
+<DocumentFragment>
+  <div
+    class="section is-flex is-justify-content-center"
+  >
+    <h1>
+      Oops! Page not found. 
+      <a
+        href="/"
+      >
+        Go back!
+      </a>
+    </h1>
+  </div>
+</DocumentFragment>
+`;

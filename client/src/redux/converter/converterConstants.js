@@ -1,0 +1,6 @@
+export const UPDATE_INPUT = 'UPDATE_INPUT';
+export const RESET_INPUT = 'RESET_INPUT';
+export const TOGGLE_LOADING = 'TOGGLE_LOADING';
+export const API_SUCCESS = 'API_SUCCESS';
+export const API_FAILURE = 'API_FAILURE';
+export const CHANGE_FILTER = 'CHANGE_FILTER';

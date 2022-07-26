@@ -1,0 +1,30 @@
+{
+  "name": "edume",
+  "version": "1.0.0",
+  "description": "A number-to-word list converter",
+  "main": "index.js",
+  "scripts": {
+    "install-client": "cd client && npm i",
+    "test": "node server.js",
+    "server": "nodemon server.js",
+    "client": "cd client && npm start",
+    "dev": "concurrently \"npm run server\" \"npm run client\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Steftones/t9.git"
+  },
+  "author": "Stefan Sokolowski",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Steftones/t9/issues"
+  },
+  "homepage": "https://github.com/Steftones/t9#readme",
+  "dependencies": {
+    "concurrently": "^7.3.0",
+    "express": "^4.18.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.19"
+  }
+}

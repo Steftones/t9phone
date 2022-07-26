@@ -1,0 +1,165 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`should render the component 1`] = `
+<DocumentFragment>
+  <div>
+    <div
+      class="column"
+      id="topSection"
+    />
+    <div
+      class="columns"
+    >
+      <div
+        class="column is-2"
+      />
+      <div
+        class="column is-flex is-justify-content-center is-4"
+      >
+        <div
+          id="phoneAntenna"
+        />
+        <div
+          id="phoneBody"
+        >
+          <textarea
+            id="phoneTextarea"
+            readonly=""
+          >
+            INPUT: 
+
+OUTPUT: 
+          </textarea>
+          <div
+            id="phoneButtons"
+          >
+            <button
+              class="dialButton"
+            >
+              1
+              <br />
+               
+            </button>
+            <button
+              class="dialButton"
+            >
+              2
+              <br />
+              abc
+            </button>
+            <button
+              class="dialButton"
+            >
+              3
+              <br />
+              def
+            </button>
+            <button
+              class="dialButton"
+            >
+              4
+              <br />
+              ghi
+            </button>
+            <button
+              class="dialButton"
+            >
+              5
+              <br />
+              jkl
+            </button>
+            <button
+              class="dialButton"
+            >
+              6
+              <br />
+              mno
+            </button>
+            <button
+              class="dialButton"
+            >
+              7
+              <br />
+              pqrs
+            </button>
+            <button
+              class="dialButton"
+            >
+              8
+              <br />
+              tuv
+            </button>
+            <button
+              class="dialButton"
+            >
+              9
+              <br />
+              wxyz
+            </button>
+            <button
+              class="dialButton"
+            >
+              *
+              <br />
+               
+            </button>
+            <button
+              class="dialButton"
+            >
+              0
+              <br />
+               
+            </button>
+            <button
+              class="dialButton"
+            >
+              #
+              <br />
+               
+            </button>
+          </div>
+        </div>
+      </div>
+      <div
+        class="column has-text-centered is-4"
+      >
+        <h1>
+          Number to word list converter
+        </h1>
+        <div
+          class="section"
+        >
+          <button>
+            Convert
+          </button>
+            
+          <button>
+            Reset
+          </button>
+        </div>
+        <div
+          class="section"
+        >
+          Mode:
+          <br />
+          <div
+            class="select"
+          >
+            <select>
+              <option>
+                Decrypt T9
+              </option>
+              <option>
+                Filter words
+              </option>
+            </select>
+          </div>
+        </div>
+      </div>
+      <div
+        class="column is-2"
+      />
+    </div>
+  </div>
+</DocumentFragment>
+`;
